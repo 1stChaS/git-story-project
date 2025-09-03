@@ -1,4 +1,2 @@
 Once upon a time, in a land full of bugs,
-
-The bugs marched proudly through the kingdom.
-
+The bugs decided to take over the world.
